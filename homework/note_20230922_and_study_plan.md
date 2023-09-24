@@ -96,7 +96,7 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 ```
 
 - update WSL1 to WSL2
-    - Download [WSL2 Linux kernel update package](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi) for x64 machines
+- Download [WSL2 Linux kernel update package](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi) for x64 machines
 ```
 # enable the Virtual Machine Platform optional feature
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
