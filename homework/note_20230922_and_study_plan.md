@@ -1,4 +1,4 @@
-# **note 20230922**
+# *note 20230922*
 
 # I. Introduction
 
@@ -157,7 +157,7 @@ exit
 
 
 
-# **study plan**
+# *study plan*
 # I. Programming Skill
 ## 1) Weeks 1-5: Linux
 
