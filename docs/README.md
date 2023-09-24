@@ -1,5 +1,3 @@
-# ---note and study plan--- 
-
 # **note 20230922**
 
 # I. Introduction
